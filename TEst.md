@@ -1,1 +1,0 @@
-https://wapt.tranquil.it/store/tis-adobereader

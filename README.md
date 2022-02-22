@@ -4,6 +4,7 @@ Services:
 
 - ProxMox Server
   - Windows AD (stratégies de groupes)
+  - GPO (Sur Windows Server)
   - DHCP
   - Script pour automatisation repertoire personnel et commun
   - GLPI (gestion d'incident et de gestion de parc)
